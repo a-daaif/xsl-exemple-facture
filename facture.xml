@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="facture.xsl" ?>
+<facture>
+    <produit id="p1">
+        <designation>produit 1</designation>
+        <prix>23.5</prix>
+        <quantite>3</quantite>
+    </produit>
+    <produit id="p2">
+        <designation>produit 2</designation>
+        <prix>330.5</prix>
+        <quantite>6</quantite>
+    </produit>
+    <produit id="p3">
+        <designation>produit 3</designation>
+        <prix>56.9</prix>
+        <quantite>10</quantite>
+    </produit>
+    <produit id="p4">
+        <designation>produit 4</designation>
+        <prix>44.5</prix>
+        <quantite>6</quantite>
+    </produit>
+</facture>
